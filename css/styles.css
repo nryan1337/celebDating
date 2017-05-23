@@ -1,0 +1,12 @@
+.form-group {
+  padding: 10px;
+}
+
+.btn {
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+#bilbo, #frodo, #legolas {
+  display: none;
+}
